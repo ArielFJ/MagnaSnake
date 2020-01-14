@@ -1,0 +1,6 @@
+D:\Documents\C# Scripts\SnakeTry\SnakeTry\bin\Debug\SnakeTry.exe
+D:\Documents\C# Scripts\SnakeTry\SnakeTry\bin\Debug\SnakeTry.pdb
+D:\Documents\C# Scripts\SnakeTry\SnakeTry\obj\Debug\SnakeTry.csprojAssemblyReference.cache
+D:\Documents\C# Scripts\SnakeTry\SnakeTry\obj\Debug\SnakeTry.csproj.CoreCompileInputs.cache
+D:\Documents\C# Scripts\SnakeTry\SnakeTry\obj\Debug\SnakeTry.exe
+D:\Documents\C# Scripts\SnakeTry\SnakeTry\obj\Debug\SnakeTry.pdb
